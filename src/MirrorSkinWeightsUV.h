@@ -1,3 +1,8 @@
+/* Copyright (C) 2017 Marc Wilhite - All Rights Reserved
+ * You may use, distribute and modify this code under the
+ * terms of the MIT license.
+ */
+
 // Maya ------------------------------------------------------------------------
 #include <maya/MPxCommand.h>
 #include <maya/MIOStream.h>
